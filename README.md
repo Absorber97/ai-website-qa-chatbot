@@ -2,6 +2,8 @@
 
 This project is an AI-powered chatbot that can answer questions about website content using natural language processing and machine learning techniques.
 
+![AI-Powered Website Q&A Chatbot](images/ai-website-qa-chatbot.png)
+
 ## Features
 
 - Web scraping to extract content from user-specified URLs
