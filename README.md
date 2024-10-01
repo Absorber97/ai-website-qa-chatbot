@@ -61,6 +61,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 - Chatbot with GPT-4o Mini & Streamlit: https://pub.towardsai.net/openai-api-from-basics-to-chatbot-implementation-with-gpt-4o-mini-streamlit-1c4de9c3c311
 - AI Summarizer with Streamlit: https://python.plainenglish.io/how-to-develop-an-ai-summarizer-and-chatbot-platform-with-streamlit-9b1598c55a43
+- OpenAI API Documentation: https://platform.openai.com/docs/overview
+- Streamlit Documentation: https://docs.streamlit.io/
 
 ## License
 
