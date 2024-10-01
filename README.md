@@ -4,6 +4,11 @@ This project is an AI-powered chatbot that can answer questions about website co
 
 ![AI-Powered Website Q&A Chatbot](images/ai-website-qa-chatbot.png)
 
+## Additional Documents
+
+- Presentation (Google Slides): https://docs.google.com/presentation/d/1PYRNkSy3sqXc3wjRuNA_lrdcSfNS0k0x5MFGJ8tT85Q/edit?usp=drive_link
+- Presentation (PDF): https://drive.google.com/file/d/1Fvdqufsx6_FoYGChsz69t2PlxTpxZxLR/view?usp=drive_link
+
 ## Features
 
 - Web scraping to extract content from user-specified URLs
