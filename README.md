@@ -57,6 +57,11 @@ Open your web browser and go to the URL provided by Streamlit (usually `http://l
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## Helpful Resources
+
+- Chatbot with GPT-4o Mini & Streamlit: https://pub.towardsai.net/openai-api-from-basics-to-chatbot-implementation-with-gpt-4o-mini-streamlit-1c4de9c3c311
+- AI Summarizer with Streamlit: https://python.plainenglish.io/how-to-develop-an-ai-summarizer-and-chatbot-platform-with-streamlit-9b1598c55a43
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
